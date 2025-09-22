@@ -1,10 +1,11 @@
 [package]
-name = "snmp"
-version = "0.2.2"
-authors = ["Hroi Sigurdsson <hroi@asdf.dk>"]
-description = "SNMP client library"
-license = "MIT/Apache-2.0"
-repository = "https://github.com/hroi/rust-snmp"
-documentation = "https://docs.rs/crate/snmp"
+name = "snmp_rs"
+version = "0.3.0"
+authors = ["Vito Lin <vito.lin.company@gmail.com>"]
+description = "Pure-Rust SNMP library with planned support for v1, v2c, v3 (USM/VACM), bulk/walk, trap/inform send & receive."
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/9-8-7-6/snmp_rs"
+documentation = "https://docs.rs/snmp_rs"
 readme = "README.md"
-keywords = ["networking", "snmp", "monitoring"]
+keywords = ["snmp", "networking", "monitoring", "rust"]
+categories = ["network-programming"]
